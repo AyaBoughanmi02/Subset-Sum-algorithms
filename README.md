@@ -1,6 +1,4 @@
 # Subset-Sum-algorithms
-Comparison of Subset Sum Algorithms: Brute Force vs. Dynamic Programming.
-
 # Subset Sum Algorithm Comparison (Brute Force vs. Dynamic Programming)
 
 This repository provides an educational comparison of two fundamental approaches to solving the **Subset Sum Problem**: Brute Force (Exhaustive Search) and Dynamic Programming (DP).
